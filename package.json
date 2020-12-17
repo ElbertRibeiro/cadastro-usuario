@@ -13,7 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-object-list": "^0.2.9",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.1",
     "react-strap-table": "^1.0.5"
   },
   "scripts": {
